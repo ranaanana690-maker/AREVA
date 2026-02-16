@@ -1,0 +1,7 @@
+{
+  "name": "Smart Library Assistant",
+  "description": "An intelligent library assistant chatbot that helps users find books by ID or title using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
